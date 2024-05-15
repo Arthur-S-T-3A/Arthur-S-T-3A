@@ -182,6 +182,7 @@ Ou até no criativo
 Só que joga sem os cria
 Mano tem nenhum sentido<!--
 
+![](https://media1.tenor.com/m/yJ-PwmavZjgAAAAC/konosuba-epic.gif)
 **Arthur-S-T-3A/Arthur-S-T-3A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
