@@ -181,6 +181,9 @@ E pode ser survival
 Ou até no criativo
 Só que joga sem os cria
 Mano tem nenhum sentido<!--
+
+!
+[](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBhcHVzcno2aDE2ZHZxZWlsMjRucHN1YjI0MDZ2em0wY2hsczV1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4q86tbLXrQBgsfYY/giphy.gif)
 **Arthur-S-T-3A/Arthur-S-T-3A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
